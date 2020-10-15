@@ -1,14 +1,14 @@
 {
   "name": "usage-learn-lerna-by-mh",
-  "version": "1.0.0",
+  "version": "1.1.0-tubix.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "alpha-learn-lerna-by-mh": "^1.0.0",
-    "beta-learn-lerna-by-mh": "^1.0.0"
+    "alpha-learn-lerna-by-mh": "^1.1.0-tubix.0",
+    "beta-learn-lerna-by-mh": "^1.1.0-tubix.0"
   },
   "keywords": [],
   "author": "",
