@@ -1,5 +1,5 @@
 {
-  "name": "usage",
+  "name": "usage-learn-lerna-by-mh",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,10 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "alpha": "1.0.0",
-    "beta": "1.0.0"
+    "alpha-learn-lerna-by-mh": "1.0.0",
+    "beta-learn-lerna-by-mh": "1.0.0"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "1daa7bc070b96c117fd36081fb5535ce40fdbd81"
 }
