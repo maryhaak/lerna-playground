@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "alpha-learn-lerna-by-mh": "^1.3.0",
-    "beta-learn-lerna-by-mh": "1.3.0-tubix.0"
+    "beta-learn-lerna-by-mh": "^1.3.0"
   },
   "keywords": [],
   "author": "",
