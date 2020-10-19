@@ -1,6 +1,9 @@
 {
   "name": "root",
   "private": true,
+  "scripts": {
+    "postpublish": "git add ./packages/*/package-lock.json && git commit --amend --no-edit && git tag --force $(git describe --tags `git rev-list --tags --max-count=1`) HEAD -m latest_$(date +%s)"
+  },
   "devDependencies": {
     "lerna": "^3.22.1"
   }
